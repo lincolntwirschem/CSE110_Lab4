@@ -11,6 +11,9 @@ c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\pre
 c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\presenter\SpendingPresenter.java
 c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\presenter\SummaryPresenter.java
 c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\repository\ExpenseRepository.java
+c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\view\charts\BarChartProvider.java
+c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\view\charts\IChartProvider.java
+c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\view\charts\PieChartProvider.java
 c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\view\SpendingView.java
 c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\edu\ucsd\spendingtracker\view\SummaryView.java
 c:\Users\wirsc\CSE110Labs\CSE110_Lab4\src\main\java\module-info.java
